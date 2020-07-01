@@ -48,7 +48,7 @@ url: https://github.com/Wlz2020/Wlz2020.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https:/Wlz2020.github.io/Wlz2020"
+baseurl: https:/Wlz2020.github.io/Wlz2020
 
 #
 # !! You don't need to change any of the configuration flags below !!
