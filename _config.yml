@@ -9,7 +9,7 @@ name: 吴两振的个人博客
 description: 没有什么事需要熬夜完成！！！
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/config.png)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/wechatImg.png
 
 #
 # Flags below are optional
